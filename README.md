@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer, lifelong learner, and open-source enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" alt="Coding GIF"/>
 </p>
 
 - 🌱 I’m currently learning **AI, ML, and Cloud Technologies**
