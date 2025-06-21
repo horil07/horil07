@@ -1,7 +1,7 @@
 <!-- Profile README for horil07 -->
 
-<h1 align="center">Hi 👋, I'm horil07</h1>
-<h3 align="center">A passionate developer, lifelong learner, and open-source enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Horil</h1>
+<h3 align="center">A passionate developer, lifelong learner and open-source enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF"/>
