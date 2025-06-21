@@ -41,8 +41,8 @@
 ### 🤝 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/horil07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kumarhoril666.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
