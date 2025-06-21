@@ -4,11 +4,11 @@
 <h3 align="center">A passionate developer, lifelong learner, and open-source enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF"/>
 </p>
 
 - 🌱 I’m currently learning **AI, ML, and Cloud Technologies**
-- 💬 Ask me about **Web Development, Python, or Open Source**
+- 💬 Ask me about **Web Development, Python, Open Source**
 - 🌎 Fun fact: **I love exploring new tech stacks & building side projects**
 - ⚡ Hobbies: **Music, Gaming, and Travelling**
 
@@ -28,12 +28,13 @@
 
 ---
 
-### 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horil07&show_icons=true&theme=radical" alt="horil07's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horil07&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horil07&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=horil07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horil07&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horil07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
