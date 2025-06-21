@@ -1,18 +1,23 @@
 <!-- Profile README for horil07 -->
 
 <h1 align="center">Hi 👋, I'm Horil</h1>
-<h3 align="center">A passionate developer, lifelong learner and open-source enthusiast</h3>
+<table>
+  <tr>
+    <td width="60%">
+<h2>A passionate developer, lifelong learner and open-source enthusiast</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding GIF"/>
-</p>
+- 🌱 I’m currently learning **AI, ML, and Cloud Technologies**  
+- ☁️ Ask me about **Web Development, Python, Open Source**  
+- 🌍 Fun fact: **I love exploring new tech stacks & building side projects**  
+- ⚡ Hobbies: **Music, Gaming, and Travelling**  
 
-- 🌱 I’m currently learning **AI, ML, and Cloud Technologies**
-- 💬 Ask me about **Web Development, Python, Open Source**
-- 🌎 Fun fact: **I love exploring new tech stacks & building side projects**
-- ⚡ Hobbies: **Music, Gaming, and Travelling**
+</td>
+<td width="100%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="dev image" width="100%" />
+</td>
+</tr>
+</table>
 
----
 
 ### 🛠️ Languages and Tools
 
@@ -52,3 +57,8 @@
 <p align="center">
   <b>Thanks for visiting! Have a fantastic day! 🚀</b>
 </p>
+
+
+
+
+
